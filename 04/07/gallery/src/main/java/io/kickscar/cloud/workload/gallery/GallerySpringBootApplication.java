@@ -11,4 +11,3 @@ public class GallerySpringBootApplication {
     }
 
 }
-// 재빌드 확인
